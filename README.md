@@ -1,6 +1,7 @@
 ### WEBSITE – Fire Safety
 <br/>
  [centralfirepro.com](https://www.centralfirepro.com)
+ [link to Google!](http://google.com)
  <br/>
 I have built and deployed this website for a fire safety business.
 <br> I have made it after attending an introductory course in web development. <br/>

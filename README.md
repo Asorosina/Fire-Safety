@@ -1,7 +1,9 @@
 ### WEBSITE – Fire Safety
-This is my first website. <br/>
-I have built this after an introductory course in web development. <br/>
-It is a commercial website for a fire service business.
+I have built and deployed this website for a fire safety business.
+<br> I have built it after attending an introductory course in web development. <br/>
+<br/><br/>
+I have used JavaScript to create an automatic slideshow with fading images.
+ <br/>
 
 <p align="left">
  <img src="readme_images/website1.jpg" width="350" height="300">

@@ -5,7 +5,7 @@
  
  <br/>
 I have built and deployed this website for a fire safety business.
-<br> I have made it after attending an introductory course in web development. <br/>
+<br> I designed it after attending an introductory course in web development. <br/>
 <br/>
 I have used JavaScript to create an automatic slideshow with fading images.
  <br/>
